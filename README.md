@@ -10,8 +10,9 @@ The purpose of the final project is to summarize, incorporate and reinforce the 
 ## How do I get started?
 
 1. Clone this repository with git.
-2. Copy the html and javascript files into plnkr, or open them in your browser.
+2. Copy the html and javascript files in the "site" directory into plnkr, or open them in your browser.
 3. Follow along the different tasks in the "to-do.txt" file
+4. Save your files to your local computer after you complete the tasks in the "to-do" file.
 
 ## License
 

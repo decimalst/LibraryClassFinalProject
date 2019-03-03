@@ -1,0 +1,3 @@
+to-do
+1. Replace [Your Name Here!] with your real name in each file
+2. Add a blog post with the ID "post1" in blog.html
