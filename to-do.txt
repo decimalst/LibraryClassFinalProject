@@ -1,3 +1,11 @@
 to-do
-1. Replace [Your Name Here!] with your real name in each file
-2. Add a blog post with the ID "post1" in blog.html
+1. Replace [Your Name Here!] with your real name/a name in each file
+2. (harder, skip if you get stuck)Add a blog post with the ID "post2" in blog.html You should copy the w hole div from post1, but change any references from "post1" to "post2" in the id's of the html
+3. Add some <p> tags in your "about me" page to talk about yourself.
+4. Add a "index.js" file, a "resume.js", and a "about_me.js" file to the project. Make sure you add a corresponding <script> tag to each html file's header.
+5. On your about me page, add a button that calls a function in your "about_me.js" file. The function doesn't need to do anything now.
+6A. Sign up for a github account at github.com. Make a note of your username.
+6B. On your about me page, let's add a link to your github page. We'll borrow code from another github repository to do this: https://github.com/surbhioberoi/github-widget
+Take the section of the repo that says "Copy paste this code in your HTML, replacing data-username with your GitHub username", and add it to the page inside a div in the body.
+7. Change the color of the navbar to a color you like. Hint: in the <nav> tag we'll need to change 'bg-dark'
+7. On each page, we have the same "navbar" across the top with  the links. Let's try replacing that with a function to put it in the html file.
