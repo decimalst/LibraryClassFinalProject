@@ -13,6 +13,7 @@ The purpose of the final project is to summarize, incorporate and reinforce the 
 2. Copy the html and javascript files in the "site" directory into plnkr, or open them in your browser.
 3. Follow along the different tasks in the "to-do.txt" file
 4. Save your files to your local computer after you complete the tasks in the "to-do" file.
+5. Check your work against the branch "more-finished-version"
 
 ## License
 
